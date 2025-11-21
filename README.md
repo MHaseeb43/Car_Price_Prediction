@@ -13,6 +13,10 @@ Creates a model with learnable weights and bias
 Visualizes predictions vs actual data
 
 Upcoming Models
-Logistic Regression
-Classification models
-And more...
+Logistic Regression.
+Classification.
+Decision Tree.
+Random forest.
+SVM.
+KNN.
+Neural Network.
