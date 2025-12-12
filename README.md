@@ -6,7 +6,7 @@ The dataset includes messy real-world data (e.g., "3.7L V6 Cylinder Engine", "51
 
 Dataset Columns:
     
-brand
+brandgit 
 model
 model_year
 milage
